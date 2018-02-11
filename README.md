@@ -8,6 +8,6 @@ gui to-do:
 checkbox
 file path
 total display refinement
-jpeg counting
+more file types (canon, jpg, tiff)
 option to not include subfolders
 automatically pull folder location from location of app
