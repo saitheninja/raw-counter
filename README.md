@@ -8,3 +8,6 @@ gui to-do:
 checkbox
 file path
 total display refinement
+jpeg counting
+option to not include subfolders
+automatically pull folder location from location of app
