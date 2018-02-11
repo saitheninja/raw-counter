@@ -1,5 +1,6 @@
 # Counts total number of Nikon and Fuji raws in photo folder
 # https://stackoverflow.com/questions/1320731/count-number-of-files-with-certain-extension-in-python
+# original idea
 
 import os
 total = 0
